@@ -60,11 +60,9 @@ git remote -v
 
 5. Refresh the GitHub page for your repository. You should see this `README.md` file.
 
-### Why are pull requests called "Pull Requests"? (wrong answer)
+### Why are pull requests called "Pull Requests"? 
 
-Pull requests are so named basically because you are asking to _pull_ changes from a remote to your local repository. And that's because you have to ask permission to copy changes out of the repository, even if you have read access to that repository.
-
-<!--TODO: This answer is SO wrong, I think we need to fix it! -->
+A pull request refers to a proposal to merge changes of one branch/fork of a repo into another.
 
 ### Create a local branch
 
